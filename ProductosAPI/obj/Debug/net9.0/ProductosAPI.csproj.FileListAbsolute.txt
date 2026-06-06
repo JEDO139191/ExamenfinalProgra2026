@@ -121,3 +121,4 @@ C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\obj\Debug\net9.0\refi
 C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\obj\Debug\net9.0\ProductosAPI.pdb
 C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\obj\Debug\net9.0\ProductosAPI.genruntimeconfig.cache
 C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\obj\Debug\net9.0\ref\ProductosAPI.dll
+C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\obj\Debug\net9.0\ProductosAPI.sourcelink.json
