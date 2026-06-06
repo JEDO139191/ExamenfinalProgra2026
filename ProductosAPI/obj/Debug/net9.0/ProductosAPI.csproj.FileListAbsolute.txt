@@ -122,3 +122,11 @@ C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\obj\Debug\net9.0\Prod
 C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\obj\Debug\net9.0\ProductosAPI.genruntimeconfig.cache
 C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\obj\Debug\net9.0\ref\ProductosAPI.dll
 C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\obj\Debug\net9.0\ProductosAPI.sourcelink.json
+C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jonathan\Desktop\Examen Final Progra\ProductosAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

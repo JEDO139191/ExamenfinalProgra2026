@@ -2,11 +2,12 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ProductosAPI.Data;
 using ProductosAPI.Modelo;
-
+using Microsoft.AspNetCore.Authorization;
 namespace ProductosAPI.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
+[Authorize]
 public class ProductosController : ControllerBase
 {
     private readonly AppDbContext _context;
